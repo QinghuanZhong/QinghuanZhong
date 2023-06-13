@@ -1,33 +1,42 @@
-### Hi there 👋
+### Hi there 👋 
+### This is Qinghuan Zhong!
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/QinghuanZhong)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qinghuan-zhong-66a22b209/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mr.jeremychung@gmail.com)
+
+Welcome to my Github page! I am Qinghuan Zhong (Jeremy)! and I am currently finishing my computer science bachelor degree at the university of New South Wales!  
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-<!-- **QinghuanZhong/QinghuanZhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Science Bachelor Degree 
+- Taking online courses about Data Science and Machine Learning 
+- Making more money to pay my tution fees
 
-Here are some ideas to get you started:
- -->
-- 🔭 I’m currently working on CS50
-- 🌱 I’m currently learning Javascript
-- ✨ I'm currently studying at UNSW
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: 13632941319@163.com
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
 
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QinghuanZhong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues" />
 
-<p align="center">
-  <a href="https://github.com/QinghuanZhong">  <!--statics主页地址，可修改-->
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=QinghuanZhong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>   <!--可修改-->
-  </a>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-<p align="center">
-  <a href="https://github.com/QinghuanZhong">  <!--热门语言，可修改-->
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QinghuanZhong&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
-  </a>
-   <a href="https://https://github.com/coderxm/CNblogs-Theme-NewSakura">  <!--pinned推荐项目,可修改-->
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=coderxm&repo=CNblogs-Theme-NewSakura&theme=algolia"/>
-  </a>   <!--可修改-->
-</p>
 
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>  
 
