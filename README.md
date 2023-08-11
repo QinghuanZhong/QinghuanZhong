@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qinghuan-zhong-66a22b209/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mr.jeremychung@gmail.com)
 
-Welcome to my Github page! I am Qinghuan Zhong (Jeremy)! and I am currently finishing my computer science bachelor degree at the university of New South Wales!  
+Welcome to my GitHub page! I am Qinghuan Zhong (Jeremy)! and I am currently finishing my computer science bachelor's degree at the University of New South Wales!  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
@@ -13,7 +13,7 @@ Welcome to my Github page! I am Qinghuan Zhong (Jeremy)! and I am currently fini
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Bachelor Degree 
 - Taking online courses about Data Science and Machine Learning 
-- Making more money to pay my tution fees
+- Making more money to pay my tuition fees
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
